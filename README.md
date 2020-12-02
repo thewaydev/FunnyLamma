@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![FunnyLamma's github stats](https://github-readme-stats.vercel.app/api?username=FunnyLamma)](https://github.com/FunnyLamma/github-readme-stats)
+[![FunnyLamma's github stats](https://github-readme-stats.vercel.app/api?username=FunnyLamma)](https://github.com/FunnyLamma/github-readme-stats)(include_all_commits)
 
 
 <!--
