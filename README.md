@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-
-
-I really enjoy Sushi, and burritos.
+I really like lizzards.
 
 
 I hope you have a good day! :)
